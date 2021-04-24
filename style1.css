@@ -91,7 +91,7 @@ h1.temp {
 
 .weather.loading:after {
   visibility: visible;
-  content: "Loading...";
+  content: "Enter Name of City...";
   color: white;
   position: absolute;
   top: 0;
